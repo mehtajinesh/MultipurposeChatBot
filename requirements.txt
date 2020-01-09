@@ -1,2 +1,4 @@
-rasa==1.16.0
-git+https://github.com/apixu/apixu-python.git
+rasa
+spacy
+git+https://github.com/apixu/apixu-python.git@master
+sanic==19.9.0
