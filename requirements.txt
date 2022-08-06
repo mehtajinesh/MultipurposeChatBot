@@ -1,4 +1,4 @@
 rasa
 spacy
 git+https://github.com/apixu/apixu-python.git@master
-sanic==19.9.0
+sanic==20.12.7
